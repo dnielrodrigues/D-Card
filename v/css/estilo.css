@@ -1,0 +1,8 @@
+body{padding-top: 50px;}
+.form-login{max-width: 330px;margin: 0 auto;}
+
+/* LISTA DECKS */
+.tabela .text-center{}
+.tabela .glyphicon{font-size: 1.3em; width: 35px; height: 25px;}
+.tabela .coluna-principal .glyphicon{float: left;}
+.tabela .tit-tabela{font-size: 1.4em;}
